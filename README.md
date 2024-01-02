@@ -1,11 +1,9 @@
 # Mantle
-
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/Mantle.svg)](https://img.shields.io/cocoapods/v/Mantle.svg)
 [![SPM compatible](https://img.shields.io/badge/SPM-compatible-4BC51D.svg?style=flat)](https://swift.org/package-manager)
 
 Mantle makes it easy to write a simple model layer for your Cocoa or Cocoa Touch application.
-
 ## The Typical Model Object
 
 What's wrong with the way model objects are usually written in Objective-C?
